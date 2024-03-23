@@ -1,0 +1,1 @@
+This is a recipe website intended to solidify skills in HTML and CSS.
