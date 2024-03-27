@@ -1,0 +1,13 @@
+.title {
+    background-color: rgb(100, 255, 100);
+    font-size: 36px;
+}
+
+ul {
+    background-color: rgb(200, 255, 200);
+    font-size: 20px;
+}
+
+* {
+    font-family: Verdana, Geneva, "Trebuchet MS", sans-serif;
+}

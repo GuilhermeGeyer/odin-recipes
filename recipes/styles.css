@@ -1,0 +1,32 @@
+h1#main-title {
+    background-color: rgb(100, 255, 100);
+    font-size: 36px;
+}
+
+* {
+    font-family: Verdana, Geneva, "Trebuchet MS", sans-serif;
+    font-size: 18px;
+    background-color: beige;
+}
+
+.sub-title {
+    background-color: rgb(100, 100, 255);
+    font-size: 24px;
+}
+
+p {
+    background-color: aqua;
+    color: #aa0000;
+    font-family: "Trebuchet MS", Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.ingredients {
+    color: #770000;
+}
+
+ol, ol li {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
